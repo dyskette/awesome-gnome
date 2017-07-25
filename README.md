@@ -72,6 +72,7 @@
 - [GRadio](https://github.com/haecker-felix/gradio/) is a client for web-based radio in GNOME.
 - [Parlatype](http://gkarsay.github.io/parlatype/) is an audio player specialized for transcription.
 - [Pulseeffect](https://github.com/wwmm/pulseeffects) is a limiter, compressor, reverberation, equalizer and auto volume effects for Pulseaudio applications.
+- [Curlew](https://curlew.sourceforge.io/) is a multimedia converter for Linux.
 
 ### Graphics
 
